@@ -1,7 +1,10 @@
 # 💫 About Me:
+<h3 align="center">🚀 Developer • 🛠️ Creator • 🌱 Lifelong Learner</h3>
 🔭 I'm currently working on Full-stack applications and System design<br>👯 I'm looking to collaborate on Open Source projects<br>🤝 I'm looking for help with Deep backend topics and System design<br>🌱 I'm currently learning Backend development in Java<br>💬 Ask me about DSA (Data Structures & Algorithms) and Database design<br>⚡ Fun fact: I love anime and I play chess! ♟🎌
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Soham124&label=Profile%20views&color=0e75b6&style=flat" alt="Soham124" /> </p>
+<div align="center">
+  <p> <img src="https://komarev.com/ghpvc/?username=Soham124&label=Profile%20views&color=0e75b6&style=flat" alt="Soham124" /> </p>
+</div>
 
 # 📊 GitHub Stats:
 
